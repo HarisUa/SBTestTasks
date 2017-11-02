@@ -14,7 +14,7 @@ SQRT
 
 ####Description
 
-```
+```php
 float harisSqrt( float n, int f = 0)
 ```
 > **n:** 
@@ -23,7 +23,7 @@ float harisSqrt( float n, int f = 0)
 >  **f:** 
 >  - Sets the number of decimal points.
 ####Usage
-```
+```php
 // include class
 include 'harisSqrt.php';
 
@@ -55,7 +55,7 @@ Fridays 13th
 
 ####Description
 
-```
+```php
 int harisFridays( int yearStart, int yearEnd = 0)
 ```
 > **yearStart:** 
@@ -64,7 +64,7 @@ int harisFridays( int yearStart, int yearEnd = 0)
 >  **yearEnd:** 
 >  - Final year of inspection
 ####Usage
-```
+```php
 // include class
 include 'harisFridays.php';
 
