@@ -22,9 +22,9 @@ class harisFridays {
 		for( $i = $start; $i <= $end; $i++ ) {
 			if(date("L",mktime(0,0,0,1,1,$i))) {
 				for($month = 1; $month <= 12; $month++) {
-	                $date = mktime(0, 0, 0, $month, 13, $i);
-	                if (5 == date('w', $date)) $this->res++;
-	            }
+					$date = mktime(0, 0, 0, $month, 13, $i);
+					if (5 == date('w', $date)) $this->res++;
+				}
 			}
 		}
 
