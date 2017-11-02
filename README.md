@@ -6,7 +6,6 @@
 ###### &&
 > **Task 2:** Get count of Fridays 13th of leap years
 
-----------
 
 
 SQRT
