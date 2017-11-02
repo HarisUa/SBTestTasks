@@ -50,9 +50,9 @@ int harisFridays( int yearStart, int yearEnd = 0)
 include 'harisFridays.php';
 
 //initialize new object
-$sqrt = new harisFridays(2016);
+$days = new harisFridays(2016);
 echo $sqrt->run(); // return 1
 
-$sqrt = new harisFridays(2000, 2016);
+$days = new harisFridays(2000, 2016);
 echo $sqrt->run(); // return 8
 ```
