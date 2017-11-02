@@ -3,6 +3,7 @@
 
 
 > **Task 1:** Create sqrt function without using standard functions
+###### &&
 > **Task 2:** Get count of Fridays 13th of leap years
 
 ----------
